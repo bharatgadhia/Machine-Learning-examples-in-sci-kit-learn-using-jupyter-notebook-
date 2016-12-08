@@ -1,1 +1,1 @@
-m-l examples-in-sci-kit-learn-using-jupyter-notebook-
+m-l examples-in-sci-kit-learn-using-jupyter-notebook
